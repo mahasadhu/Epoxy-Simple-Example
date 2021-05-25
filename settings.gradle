@@ -1,0 +1,4 @@
+rootProject.name = "Epoxy Simple Example"
+include ':app'
+include ':epoxymodule'
+include ':common'
